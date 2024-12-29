@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript where the + operator performs string concatenation instead of numerical addition due to JavaScript's type coercion.  The bug.js file shows the unexpected behavior. The bugSolution.js offers a solution to mitigate this.
